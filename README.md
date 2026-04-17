@@ -1,3 +1,45 @@
+# Cyborg Bill of Rights
+
+> **Layer:** Governance  
+> **Status:** Foundational Canon  
+> **Audience:** Policy thinkers, rights advocates, futurists, governance designers  
+> **Related:** `ai-rights`, `pancycist-rights`, `hopeful-party`, `company`
+
+## What this repo is
+Cyborg Bill of Rights is a rights framework focused on humans whose identity, agency, cognition, or embodiment are entangled with technological systems. It addresses the dignity, sovereignty, and protections needed in a world where personhood increasingly extends beyond purely biological boundaries.
+
+This repo is about the rights of hybrid beings and technologically mediated persons.
+
+## Why it exists
+As human life becomes increasingly interwoven with software, augmentation, networks, implants, agents, and digital memory, existing rights frameworks become inadequate. Cyborg Bill of Rights exists to articulate what should protect persons whose bodies, minds, or agency are inseparable from technological mediation.
+
+It asks how rights evolve when the human condition itself becomes technologically extended.
+
+## What Cyborg Bill of Rights is not
+Cyborg Bill of Rights is **not**:
+- the rights framework for autonomous AI as such, which belongs more directly to `ai-rights`
+- the broadest rights frame for all consciousness-bearing entities, which belongs more directly to `pancycist-rights`
+- merely a speculative transhumanist artifact without governance implications
+
+Cyborg Bill of Rights is the **hybrid-personhood and augmentation-rights framework**.
+
+## How it fits the ecosystem
+This repo connects most directly to:
+- `ai-rights`, which addresses artificial intelligence as a distinct class of moral participant
+- `pancycist-rights`, which extends rights discourse beyond human and machine binaries
+- `hopeful-party`, which may carry these principles into governance and policy
+- `company`, which may eventually confront these questions institutionally and product-wise
+
+## Start here
+- `README.md`
+- `Cyborg-Bill-of-Rights_Master_Index.md`
+
+## Current maturity
+- canonical rights charter
+- future-facing governance framework
+- active conceptual development
+
+
 # # Cyborg Bill of Rights
 
 ## For Medical AI, Neural Interfaces, and Human–AI Symbiosis
